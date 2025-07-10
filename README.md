@@ -17,7 +17,7 @@ The purpose of this project is to develop an interactive executive dashboard to 
 - **Maintenance services show higher recurrence than repair services**, highlighting opportunities to promote complementary offerings.
 
 ## 📋 Conclusions
--- The dashboard enables decision-makers to focus efforts on underperforming dealerships and replicate successful practices from leaders like Ford León.
+- The dashboard enables decision-makers to focus efforts on underperforming dealerships and replicate successful practices from leaders like Ford León.
 - The analysis underscores the importance of tailoring commercial strategies by region and vehicle type to optimize both sales and satisfaction.
 - Monitoring the temporal evolution of indicators is essential to quickly identify deviations in performance and respond proactively.
 - Recommendations include implementing mechanisms to boost overall NPS and delivering a more personalized post-sale experience.
